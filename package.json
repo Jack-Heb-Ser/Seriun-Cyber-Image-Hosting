@@ -1,0 +1,20 @@
+{
+  "name": "seriun-cyber-image-hosting",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack-Heb-Ser/Seriun-Cyber-Image-Hosting.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack-Heb-Ser/Seriun-Cyber-Image-Hosting/issues"
+  },
+  "homepage": "https://github.com/Jack-Heb-Ser/Seriun-Cyber-Image-Hosting#readme",
+  "description": ""
+}
